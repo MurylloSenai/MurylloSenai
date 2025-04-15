@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MurylloSenai&layout=compact&title_color=8A2BE2&text_color=FFFFFF&icon_color=00BFFF&bg_color=1C1C1C&border_radius=15&hide_border=true&cache_seconds=2300)](https://github.com/Anuraghazra)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iP4uL0/iP4uL0/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iP4uL0/iP4uL0/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/iP4uL0/iP4uL0/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MurylloSenai/MurylloSenai/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MurylloSenai/MurylloSenai/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MurylloSenai/MurylloSenai/output/github-contribution-grid-snake.svg">
 </picture>
