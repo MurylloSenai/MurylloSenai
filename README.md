@@ -47,5 +47,9 @@ Here are some ideas to get you started:
 ![Muryllo's GitHub stats](https://github-readme-stats.vercel.app/api?username=MurylloSenai&show_icons=true&title_color=8A2BE2&text_color=FFFFFF&icon_color=00BFFF&bg_color=1C1C1C&border_radius=15&hide_border=true&cache_seconds=600)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MurylloSenai&layout=compact&title_color=8A2BE2&text_color=FFFFFF&icon_color=00BFFF&bg_color=1C1C1C&border_radius=15&hide_border=true&cache_seconds=2300)](https://github.com/Anuraghazra)
 
-![Snake Animation](dist/github-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
+  <img alt="Snake Animation" src="dist/github-snake.svg" />
+</picture>
 
