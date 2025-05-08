@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ## 👨‍💻 Sobre Mim
 - Estudante de **Desenvolvimento de Sistemas** no **SENAI** (2/2).
 - Apaixonado por tecnologia, atualmente focado em aprimorar minhas habilidades no **desenvolvimento web**.
-- Aprendendo **Mobile** para complementar minhas habilidades no **front-end**.
+- Aprendendo **React Native** para complementar minhas habilidades no **front-end**.
 
 <h2 align="center">🚀 Tecnologias e Ferramentas</h2>
 
